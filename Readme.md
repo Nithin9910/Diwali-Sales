@@ -1,6 +1,19 @@
-## Diwali Sales Analysis
+# Diwali Sales Analysis
 
 ## Data Used
+
 Data - Over 11000 records
 
 Data Visualization & EDA - Python
+
+## Summary of Findings
+
+1. Most of the buyers are females and the purchasing power of females are greater than men as well.
+
+2. Most of the buyers fall under the age group 26-35 years old females.
+
+3. It appears that most of the orders placed and sales generated are from the states of Uttar Pradesh, Maharashtra and Karnataka.
+
+4. Most of the buyers are married women and they have higher purchasing power.
+
+5. It can be seen that most buyers are working in IT, Healthcare and Aviation sectors.
