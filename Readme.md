@@ -17,3 +17,7 @@ Data Visualization & EDA - Python
 4. Most of the buyers are married women and they have higher purchasing power.
 
 5. It can be seen that most buyers are working in IT, Healthcare and Aviation sectors.
+
+## Conclusion: 
+
+Married women in the age group 26-35 years residing in Uttar Pradesh, Maharashtra, and Karnataka, working in the IT, Healthcare, and Aviation sectors, are more likely to be interested in purchasing products from the Food, Clothing, and Electronics categories during the festive season. 
