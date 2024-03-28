@@ -4,7 +4,7 @@
 
 Data - Over 11000 records
 
-Data Visualization & EDA - Python
+Data Visualization & EDA - Python(NumPy, Matplotlib, Pandas, Seaborn)
 
 ## Summary of Findings
 
